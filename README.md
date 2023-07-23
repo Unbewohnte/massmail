@@ -19,6 +19,9 @@ GMail address:password pair does not work out of the box; some toggles in the se
 8. Generate a new app password
 9. Use it **instead** of the account password
 
+## License
+AGPL
+
 I have no responsibility for **your** actions
 
 -----
@@ -38,5 +41,8 @@ I have no responsibility for **your** actions
 7. Пролистайте вниз и выберите "App passwords"
 8. Создайте новый пароль для приложения
 9. Используйте его **вместо** пароля аккаунта в конфигурационном файле 
+
+## Лицензия
+AGPL
 
 Я не отвечаю за **ваши** действия
